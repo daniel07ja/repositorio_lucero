@@ -1,0 +1,46 @@
+{
+  "name": "Greysi Lucero",
+  "lastname": "Rivera Scharff",
+  "role": "Estudiante de Ingeniería de Software",
+  "tagline": "Construyo aplicaciones claras, útiles y bien pensadas",
+  "photo": "",
+  "semester": 5,
+  "totalSemesters": 10,
+  "accent": "#8F5F6A",
+  "institution": "Universidad Nacional de Colombia",
+  "city": "Bogotá, Colombia",
+  "english": "Español, Inglés",
+  "availability": "Prácticas, proyectos y aprendizaje",
+  "aboutLead": "Soy estudiante de ingeniería de software con pasión por crear soluciones tecnológicas.",
+  "about": "Me encanta aprender nuevas tecnologías y trabajar en equipo. Busco experiencias que me permitan crecer profesionalmente y aportar valor a través de código bien escrito.",
+  "linkedin": "https://linkedin.com/in/greysi-lucero",
+  "github": "https://github.com/daniel07ja",
+  "email": "greysi@ejemplo.com",
+  "cv": "",
+  "skills": "Frontend: HTML, CSS, JavaScript, React\nBackend: Node.js, Express, PostgreSQL\nHerramientas: Git, GitHub, VS Code",
+  "projects": [
+    {
+      "title": "Portafolio Personal",
+      "desc": "Sitio interactivo para mostrar mis proyectos y habilidades",
+      "tags": "HTML, CSS, JavaScript, Three.js",
+      "link": "https://github.com/daniel07ja"
+    },
+    {
+      "title": "Proyecto 2",
+      "desc": "Descripción de tu segundo proyecto",
+      "tags": "Tecnologías",
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "when": "2022 - 2026",
+      "title": "Ingeniería de Software",
+      "place": "Universidad Nacional de Colombia"
+    }
+  ],
+  "auth": {
+    "salt": "default_salt_change_me",
+    "hash": "default_hash_change_me"
+  }
+}
